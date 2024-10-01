@@ -24,5 +24,5 @@ Link do Vercel: https://cadastro-fullstack-hazel.vercel.app/
   #### Imagem do projeto
 
   <p>
-    <img src="https://github.com/user-attachments/assets/3568430c-1a69-4547-b4ab-a4b2562975e2" alt="Imagem Projeto"/>
+    <img src="https://github.com/user-attachments/assets/3568430c-1a69-4547-b4ab-a4b2562975e2" alt="Imagem Projeto" width="400"/>
   </p>
